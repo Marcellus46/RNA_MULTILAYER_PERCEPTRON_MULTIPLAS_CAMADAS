@@ -33,7 +33,7 @@ Editor de Código Utilizado:
 
 OBS1:  Neste RNA no Google Colabs logo no  primeiro teste foi bem satisfatório assim como descrito no arquivo de iamgens de testes, aqui não houve mudanças e rodou perfeitamente, já funcionando a rede neural como mostrado no gráfico de plotagem. Neste Treinamento não houve auxílio da IA Generativa Gemini. Há um segundo gráfico em 3d que foi adicionado nos códigos para ter melhor visualização (também descritos no arquivo). Concluindo assim as 3 etapas das redes neurais propostos pelo curso. 
 
-OBS2: Este treinamento é bem diferente das redes neurais Perceptron e Adaline/Madaline (Camada Simples), os códigos e o gráfico são diferentes, pois são de multiplas camadas e um pouco mais complexo.
+OBS2: Este treinamento é bem diferente das redes neurais Perceptron e Adaline/Madaline (Camada Simples), os códigos e o gráfico são diferentes, pois são de múltiplas camadas e um pouco mais complexo.
 
 OBS3: Não houve uso do VsCode.
 
