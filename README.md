@@ -39,10 +39,7 @@ OBS3: Não houve uso do VsCode.
 
 ## Documentação:
 
--
-
-
-
+- Não tem
 
 ### ATENÇÃO!
 
