@@ -1,5 +1,5 @@
-# RNA_MULTILAYER_PERCEPTRON_MULTIPLAS_CAMADAS
-Este é a terceira e última parte do projeto Redes Neurais do Curso Inteligência Artificial I
+# RNA MULTILAYER PERCEPTRON MULTIPLAS CAMADAS
+Este é a terceira parte do projeto Redes Neurais do Curso Inteligência Artificial I
 
 ## Curso: 
 
